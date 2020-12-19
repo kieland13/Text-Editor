@@ -1,0 +1,11 @@
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\bin\Debug\MdiTextEditor.exe.config
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\bin\Debug\MdiTextEditor.exe
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\bin\Debug\MdiTextEditor.pdb
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.csprojAssemblyReference.cache
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.ChildForm.resources
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.Form1.resources
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.Properties.Resources.resources
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.csproj.GenerateResource.cache
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.csproj.CoreCompileInputs.cache
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.exe
+E:\DCTC\Fall2020\NET2\MdiTextEditor\MdiTextEditor\obj\Debug\MdiTextEditor.pdb
